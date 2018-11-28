@@ -68,23 +68,3 @@ alias sab="ssh andbeyond"
 alias sabd="ssh -p63 robnugen@abdirect.subdev.net"
 alias sbl="ssh thunderrabbit@106.187.38.107"  # sbstrm linode
 
-# Added by Rob when Meteorite (mrt) wasn't found after installing it
-# killed in late 2018 export PATH="$PATH:~/node_modules/meteorite/.bin"
-
-# Added to use laravel
-# killed in late 2018 export PATH="$PATH:~/.composer/vendor/bin/"
-
-# killed in late 2018 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
-
-## add cocoapods' Ruby without sudo
-export GEM_HOME=$HOME/.gem
-export PATH=$GEM_HOME/bin:$PATH
-
-## add AB Codeception testing
-export PATH=$PATH:$HOME/Documents/work/sbstrm/repos/Codeception
-
-
-# killed in late 2018 PERL_MB_OPT="--install_base \"/Users/thunderrabbit/perl5\""; export PERL_MB_OPT;
-# killed in late 2018 PERL_MM_OPT="INSTALL_BASE=/Users/thunderrabbit/perl5"; export PERL_MM_OPT;
-
-# killed in late 2018 source ~/perl5/perlbrew/etc/bashrc

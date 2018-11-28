@@ -37,7 +37,6 @@ export ENV=$HOME/.bashrc
 export USERNAME="thunderrabbit"
 export EDITOR=emacs
 
-## source ~/.profile added for RVM 5 Feb 2015  (Ruby Version Manager) https://github.com/wayneeseguin/rvm/
 source ~/.profile
 
 # {{{
@@ -66,3 +65,6 @@ test -e "${HOME}/.iterm2_shell_integration.bash" && source "${HOME}/.iterm2_shel
 # The original version is saved in .bash_profile.pysave
 PATH="/Library/Frameworks/Python.framework/Versions/2.7/bin:${PATH}"
 export PATH
+
+## added Nov 2018 for AndBeyond Codeception testing
+export PATH="{$PATH}:$HOME/Documents/work/sbstrm/repos/Codeception"
