@@ -61,6 +61,7 @@ alias cotb='ssh cotb@cotb.robnugen.com'
 
 alias ssx='ssh -p 10022 xsvx1018212@210.188.201.69'
 alias s="subl -n ."
+alias s3="subl3 -n ."
 alias godot2='/Applications/Godot214.app/Contents/MacOS/Godot -e -path $(pwd)'
 alias godot3='/Applications/Godot300.app/Contents/MacOS/Godot -e -path $(pwd)'
 
