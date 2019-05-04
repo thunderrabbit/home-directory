@@ -60,6 +60,10 @@ source ~/perl5/perlbrew/etc/bashrc
 PATH="/Library/Frameworks/Python.framework/Versions/3.4/bin:${PATH}"
 export PATH
 
+# https://medium.freecodecamp.org/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f
+# allow pyenv to automatically change Python versions for me
+eval "$(pyenv init -)"
+
 test -e "${HOME}/.iterm2_shell_integration.bash" && source "${HOME}/.iterm2_shell_integration.bash"
 
 # Setting PATH for Python 2.7
