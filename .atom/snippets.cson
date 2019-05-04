@@ -18,42 +18,84 @@
 # https://github.com/bevry/cson#what-is-cson
 
 '.source.gfm':
+  'Doctor Sugar':
+    'prefix': 'ds'
+    'body': '[Doctor Sugar](/workers/dr_sugar/)'
+  'Reversible Guy':
+    'prefix': 'rg'
+    'body': '[Reversible Guy](/workers/reversible/)'
+  'Candy Mama':
+    'prefix': 'cm'
+    'body': '[Candy Mama](/workers/candy_mama/)'
+  'G. Choppy':
+    'prefix': 'gc'
+    'body': '[G. Choppy](/workers/g_choppy/)'
+  'Mr McGlue':
+    'prefix': 'mg'
+    'body': '[Mr McGlue](/workers/mr_mcglue/)'
+  'Pinky':
+    'prefix': 'pink'
+    'body': '[Pinky](/workers/pinky/)'
+  'Squarehead':
+    'prefix': 'square'
+    'body': '[Squarehead](/workers/squarehead/)'
+  'Big Brother':
+    'prefix': 'big'
+    'body': '[Big Brother](/workers/big_brother/)'
+  'Little Brother':
+    'prefix': 'lil'
+    'body': '[Little Brother](/workers/lil_brother/)'
+  'Super Spoony':
+    'prefix': 'sup'
+    'body': '[Super Spoony](/workers/super_spoony/)'
+  'Garinoppi':
+    'prefix': 'gar'
+    'body': '[Garinoppi](/workers/garinoppi/)'
+  'Backpack Jack':
+    'prefix': 'bpj'
+    'body': '[Backpack Jack](/workers/backpack_jack/)'
+  'Rabby':
+    'prefix': 'rab'
+    'body': '[Rabby](/workers/rabby/)'
+  'Mr Greene':
+    'prefix': 'mrg'
+    'body': '[Mr Greene](/workers/mr_greene/)'
   'Back Right Medium Landing Zone':
     'prefix': 'brmlz'
-    'body': '[Back Right Medium Landing Zone](/p/brmlz)'
+    'body': '[Back Right Medium Landing Zone](/parts/back_right_medium_landing_zone/)'
   'Bar Below Circle by Caret Splitter':
     'prefix': 'bbcbcs'
-    'body': '[Bar Below Circle by Caret Splitter](/p/bbcbcs)'
+    'body': '[Bar Below Circle by Caret Splitter](/parts/bar_below_circle_by_the_caret_splitter/)'
   'Bearing':
     'prefix': 'bearing'
-    'body': '[Bearing](/p/bearing)'
+    'body': '[Bearing](/parts/bearing/)'
   'Below Lower Zig Zag Track':
     'prefix': 'blzzt'
-    'body': '[Below Lower Zig Zag Track](/p/blzzt)'
+    'body': '[Below Lower Zig Zag Track](/parts/below_lower_zig_zag_track/)'
   'Caret Splitter Backboard':
     'prefix': 'csb'
-    'body': '[Caret Splitter Backboard](/p/csb)'
+    'body': '[Caret Splitter Backboard](/parts/caret-splitter-backboard/)'
   'Caret Splitter Feeder Extension Reflection Second Stanchion':
     'prefix': 'csfer2s'
-    'body': '[Caret Splitter Feeder Extension Reflection Second Stanchion](/p/csfer2s)'
+    'body': '[Caret Splitter Feeder Extension Reflection Second Stanchion](/parts/caret-splitter-feeder-extension-reflection-second-stanchion/)'
   'Caret Splitter Feeder Extension Reflection Stanchion':
     'prefix': 'csfers'
-    'body': '[Caret Splitter Feeder Extension Reflection Stanchion](/p/csfers)'
+    'body': '[Caret Splitter Feeder Extension Reflection Stanchion](/parts/caret-splitter-feeder-extension-reflection-stanchion/)'
   'Caret Splitter Feeder Extension Reflection':
     'prefix': 'csfer'
-    'body': '[Caret Splitter Feeder Extension Reflection](/p/csfer)'
+    'body': '[Caret Splitter Feeder Extension Reflection](/parts/caret-splitter-feeder-extension-reflection/)'
   'Caret Splitter Feeder Extension':
     'prefix': 'csfe'
-    'body': '[Caret Splitter Feeder Extension](/p/csfe)'
+    'body': '[Caret Splitter Feeder Extension](/parts/caret_splitter_feeder_extension/)'
   'Caret Splitter Feeder':
     'prefix': 'csf'
-    'body': '[Caret Splitter Feeder](/p/csf)'
+    'body': '[Caret Splitter Feeder](/parts/caret_splitter_feeder/)'
   'Caret Splitter Right Hand Inner Side':
     'prefix': 'csrhis'
-    'body': '[Caret Splitter Right Hand Inner Side](/p/csrhis)'
+    'body': '[Caret Splitter Right Hand Inner Side](/parts/caret-splitter-right-hand-inner-side/)'
   'Caret Splitter Right Track':
     'prefix': 'csrt'
-    'body': '[Caret Splitter Right Track](/p/csrt)'
+    'body': '[Caret Splitter Right Track](/parts/caret_splitter_right_track/)'
   'Caret Splitter Rudder':
     'prefix': 'csr'
     'body': '[Caret Splitter Rudder](/parts/caret-splitter-rudder/)'
@@ -62,46 +104,46 @@
     'body': '[Caret Splitter](/parts/caret-splitter/)'
   'Circle by the Caret Splitter':
     'prefix': 'cbtcs'
-    'body': '[Circle by the Caret Splitter](/p/cbtcs)'
+    'body': '[Circle by the Caret Splitter](/parts/circle_by_the_caret_splitter/)'
   'Decorative Walls after the Lowest Small-Medium Splitter':
     'prefix': 'dwatlsms"'
-    'body': '[Decorative Walls after the Lowest Small-Medium Splitter](/p/dwatlsms")'
+    'body': '[Decorative Walls after the Lowest Small-Medium Splitter](/parts/decorative_walls_after_the_lowest_small-medium_splitter/")'
   'Eighth Placed Outer Spiral Support':
     'prefix': '8poss'
-    'body': '[Eighth Placed Outer Spiral Support](/p/8poss)'
+    'body': '[Eighth Placed Outer Spiral Support](/parts/008p_eighth-placed-outer-spiral-support/)'
   'Fifth Placed Outer Spiral Support':
     'prefix': '5poss'
-    'body': '[Fifth Placed Outer Spiral Support](/p/5poss)'
+    'body': '[Fifth Placed Outer Spiral Support](/parts/005p_fifth_placed_outer_spiral_support/)'
   'First Placed Outer Spiral Support':
     'prefix': '1poss'
-    'body':  '[First Placed Outer Spiral Support](/p/1poss)'
+    'body':  '[First Placed Outer Spiral Support](/parts/001p_first_placed_outer_spiral_support/)'
   'First Snake-Installed Rail':
     'prefix': 'fsir'
-    'body': '[First Snake-Installed Rail](/p/fsir)'
+    'body': '[First Snake-Installed Rail](/parts/first_snake-installed_rail/)'
   'Fourth Placed Outer Spiral Support':
     'prefix': '4poss'
-    'body': '[Fourth Placed Outer Spiral Support](/p/4poss)'
+    'body': '[Fourth Placed Outer Spiral Support](/parts/004p_fourth_placed_outer_spiral_support/)'
   'Front Left Medium Landing Zone':
     'prefix': 'flmlz'
-    'body': '[Front Left Medium Landing Zone](/p/flmlz)'
+    'body': '[Front Left Medium Landing Zone](/parts/front_left_medium_landing_zone/)'
   'Guides into Back Right Medium Landing Zone':
     'prefix': 'gibrmlz'
-    'body': '[Guides into Back Right Medium Landing Zone](/p/gibrmlz)'
+    'body': '[Guides into Back Right Medium Landing Zone](/parts/guides-into-back-right-medium-landing-zone/)'
   'Left Side Small Landing Zone':
     'prefix': 'lsslz'
-    'body': '[Left Side Small Landing Zone](/p/lsslz)'
+    'body': '[Left Side Small Landing Zone](/parts/left_side_small_landing_zone/)'
   'Little Wiggly Track':
     'prefix': 'lwt'
-    'body': '[Little Wiggly Track](/p/lwt)'
+    'body': '[Little Wiggly Track](/parts/little_wiggly_track/)'
   'Lower Curver off the Lowest Small-Medium Splitter':
     'prefix': 'lcotlsms'
-    'body': '[Lower Curver off the Lowest Small-Medium Splitter](/p/lcotlsms)'
+    'body': '[Lower Curver off the Lowest Small-Medium Splitter](/parts/lower_curver_off_the_lowest_small-medium_splitter/)'
   'Lower Zig Zag 2 ban top':
     'prefix': 'lzz2bt'
-    'body': '[Lower Zig Zag 2 ban top](/p/lzz2bt)'
+    'body': '[Lower Zig Zag 2 ban top](/parts/lower-zig-zag-2-ban-top/)'
   'Lower Zig Zag 2 ban':
     'prefix': 'lzz2b'
-    'body': '[Lower Zig Zag 2 ban](/p/lzz2b)'
+    'body': '[Lower Zig Zag 2 ban](/parts/lower-zig-zag-2-ban)'
   'Lower Zig Zag 3 ban base':
     'prefix': 'lzz3bb'
     'body': '[Lower Zig Zag 3 ban base](/p/lzz3bb)'
@@ -113,76 +155,76 @@
     'body': '[Lower Zig Zag 3ban Upper Base Base](/p/lzz3bubb)'
   'Lower Zig Zag Net':
     'prefix': 'lzzn'
-    'body': '[Lower Zig Zag Net](/p/lzzn)'
+    'body': '[Lower Zig Zag Net](/parts/lower_zig_zag_net/)'
   'Lower Zig Zag':
     'prefix': 'lzz'
     'body': '[Lower Zig Zag](/parts/lower_zig_zag/)'
   'Lowest Back Left Small Marble Curve':
     'prefix': 'lblsmc'
-    'body': '[Lowest Back Left Small Marble Curve](/p/lblsmc)'
+    'body': '[Lowest Back Left Small Marble Curve](/parts/lowest_back_left_small_marble_curve/)'
   'Lowest Largest Backtracking Chopstick':
     'prefix': 'llbc'
-    'body': '[Lowest Largest Backtracking Chopstick](/p/llbc)'
+    'body': '[Lowest Largest Backtracking Chopstick](/parts/lowest_largest_backtracking_chopstick/)'
   'Lowest Largest Backtracking Popsicle Stick':
     'prefix': 'llbps'
-    'body': '[Lowest Largest Backtracking Popsicle Stick](/p/llbps)'
+    'body': '[Lowest Largest Backtracking Popsicle Stick](/parts/lowest_largest_backtracking_popsicle_stick/)'
   'Lowest Largest U-Turn':
     'prefix': 'llut"'
-    'body': '[Lowest Largest U-Turn](/p/llut")'
+    'body': '[Lowest Largest U-Turn](/parts/lowest_largest_u_turn/")'
   'Medium Catcher Below Triple Splitter':
     'prefix': 'mcbts'
-    'body': '[Medium Catcher Below Triple Splitter](/p/mcbts)'
+    'body': '[Medium Catcher Below Triple Splitter](/parts/medium-catcher-below-triple-splitter/)'
   'Ninth Placed Outer Spiral Support':
     'prefix': '9poss'
-    'body': '[Ninth Placed Outer Spiral Support](/p/9poss)'
+    'body': '[Ninth Placed Outer Spiral Support](/parts/009p_ninth-placed-outer-spiral-support/)'
   'Outer Spiral':
     'prefix': 'os'
-    'body': '[Outer Spiral](/p/os)'
+    'body': '[Outer Spiral](/parts/outer_spiral/)'
   'Right Side Small Landing Zone':
     'prefix': 'rsslz'
-    'body': '[Right Side Small Landing Zone](/p/rsslz)'
+    'body': '[Right Side Small Landing Zone](/parts/right_side_small_landing_zone/)'
   'Second Placed Outer Spiral Support':
     'prefix': '2poss'
-    'body': '[Second Placed Outer Spiral Support](/p/2poss)'
+    'body': '[Second Placed Outer Spiral Support](/parts/002p_second_placed_outer_spiral_support/)'
   'Seventh Placed Outer Spiral Support':
     'prefix': '7poss'
-    'body': '[Seventh Placed Outer Spiral Support](/p/7poss)'
+    'body': '[Seventh Placed Outer Spiral Support](/parts/007p_seventh-placed-outer-spiral-support/)'
   'Sixth Placed Outer Spiral Support':
     'prefix': '6poss'
-    'body': '[Sixth Placed Outer Spiral Support](/p/6poss)'
+    'body': '[Sixth Placed Outer Spiral Support](/parts/006p_sixth_placed_outer_spiral_support/)'
   'Snake Plate Chopstick':
     'prefix': 'spc'
-    'body': '[Snake Plate Chopstick](/p/spc)'
+    'body': '[Snake Plate Chopstick](/parts/snake_plate_chopstick/)'
   'Snake Plate U Turn':
     'prefix': 'sput'
-    'body': '[Snake Plate U Turn](/p/sput)'
+    'body': '[Snake Plate U Turn](/parts/snake_plate_u_turn/)'
   'Snake Plate U-Turn Berm':
-    'prefix': 'sputb"'
-    'body': '[Snake Plate U-Turn Berm](/p/sputb")'
+    'prefix': 'sputb'
+    'body': '[Snake Plate U-Turn Berm](/parts/snake_plate_u_turn_berm/)'
   'Snake Plate U-turn Berm Bar':
     'prefix': 'sputbb'
-    'body': '[Snake Plate U-turn Berm Bar](/p/sputbb)'
+    'body': '[Snake Plate U-turn Berm Bar](/parts/snake-plate-u-turn-berm-bar/)'
   'Snake Plate':
     'prefix': 'sp'
-    'body': '[Snake Plate](/p/sp)'
+    'body': '[Snake Plate](/parts/snake_plate/)'
   'The First Track':
     'prefix': 'tft'
-    'body': '[The First Track](/p/tft)'
+    'body': '[The First Track](/parts/the_first_track/)'
   'Third Placed Outer Spiral Support':
     'prefix': '3poss'
-    'body': '[Third Placed Outer Spiral Support](/p/3poss)'
+    'body': '[Third Placed Outer Spiral Support](/parts/003p_third_placed_outer_spiral_support/)'
   'Triple Splitter Small Feeder Inner Bar Lower Support':
     'prefix': 'tssfibls'
-    'body': '[Triple Splitter Small Feeder Inner Bar Lower Support](/p/tssfibls)'
+    'body': '[Triple Splitter Small Feeder Inner Bar Lower Support](/parts/triple-splitter-small-feeder-inner-bar-lower-support/)'
   'Triple Splitter Small Feeder Inner Bar':
     'prefix': 'tssfib'
-    'body': '[Triple Splitter Small Feeder Inner Bar](/p/tssfib)'
+    'body': '[Triple Splitter Small Feeder Inner Bar](/parts/triple-splitter-small-feeder-inner-bar/)'
   'Triple Splitter Small Feeder Outer Bar Lower Support':
     'prefix': 'tssfobls'
-    'body': '[Triple Splitter Small Feeder Outer Bar Lower Support](/p/tssfobls)'
+    'body': '[Triple Splitter Small Feeder Outer Bar Lower Support](/parts/triple-splitter-small-feeder-outer-bar-lower-support/)'
   'Triple Splitter Small Feeder Outer Bar':
     'prefix': 'tssfob'
-    'body': '[Triple Splitter Small Feeder Outer Bar](/p/tssfob)'
+    'body': '[Triple Splitter Small Feeder Outer Bar](/parts/triple-splitter-small-feeder-outer-bar/)'
   'Triple Splitter Small Feeder':
     'prefix': 'tssf'
     'body': '[Triple Splitter Small Feeder](/parts/triple-splitter-small-feeder/)'
@@ -191,16 +233,16 @@
     'body': '[Triple Splitter](/parts/triple_splitter/)'
   'Two Ends Chopped Off Triple Splitter':
     'prefix': 'tecots'
-    'body': '[Two Ends Chopped Off Triple Splitter](/p/tecots)'
+    'body': '[Two Ends Chopped Off Triple Splitter](/parts/two-ends-chopped-off-triple-splitter/)'
   'Upper Splitter off the Lowest Small-Medium Splitter':
     'prefix': 'usotlsms'
-    'body': '[Upper Splitter off the Lowest Small-Medium Splitter](/p/usotlsms)'
+    'body': '[Upper Splitter off the Lowest Small-Medium Splitter](/parts/upper_splitter_off_the_lowest_small-medium_splitter/)'
   'the Lowest Small-Medium Splitter':
     'prefix': 'tlsms'
-    'body': '[the Lowest Small-Medium Splitter](/p/tlsms)'
+    'body': '[the Lowest Small-Medium Splitter](/parts/the_lowest_small-medium_splitter/)'
   'the Triple Splitter Small Marble Catcher':
     'prefix': 'ttssmc'
-    'body': '[the Triple Splitter Small Marble Catcher](/p/ttssmc)'
+    'body': '[the Triple Splitter Small Marble Catcher](/parts/the_triple_splitter_small_marble_catcher/)'
   '円周螺旋':
     'prefix': 'os'
-    'body': '[円周螺旋](/p/os)'
+    'body': '[円周螺旋](/parts/outer_spiral/)'
