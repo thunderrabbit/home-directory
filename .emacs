@@ -1,3 +1,22 @@
+;; Added by Rob 1 January 2019.
+;; https://github.com/melpa/melpa
+;; MELPA installer code:
+(require 'package)
+(let* ((no-ssl (and (memq system-type '(windows-nt ms-dos))
+                    (not (gnutls-available-p))))
+       (proto (if no-ssl "http" "https")))
+  (when no-ssl (warn "\
+Your version of Emacs does not support SSL connections,
+which is unsafe because it allows man-in-the-middle attacks.
+There are two things you can do about this warning:
+1. Install an Emacs version that does support SSL and be safe.
+2. Remove this warning from your init file so you won't see it again."))
+  ;; Comment/uncomment these two lines to enable/disable MELPA and MELPA Stable as desired
+  (add-to-list 'package-archives (cons "melpa" (concat proto "://melpa.org/packages/")) t)
+  ;;(add-to-list 'package-archives (cons "melpa-stable" (concat proto "://stable.melpa.org/packages/")) t)
+  (when (< emacs-major-version 24)
+    ;; For important compatibility libraries like cl-lib
+    (add-to-list 'package-archives (cons "gnu" (concat proto "://elpa.gnu.org/packages/")))))
 ;; Added by Package.el.  This must come before configurations of
 ;; installed packages.  Don't delete this line.  If you don't want it,
 ;; just comment it out by adding a semicolon to the start of the line.
@@ -63,6 +82,7 @@
 
 (fset 'create-thumbs-with-b\.robnugen\.com-image-url-on-single-line
    [?\C-e ?\C-r ?/ return ?\C-f ?\C-k ?\C-y ?\C-x ?b ?* ?j ?h ?h ?g ?a ?a return ?\C-y backspace backspace backspace backspace ?\C-a escape ?x ?r ?e ?p ?l tab ?s ?t tab return ?_ return ?  return ?\C-a ?\C-k ?\C-x ?k return ?\C-a ?\[ ?! ?\[ ?\C-y ?\] ?\( ?\C-s ?/ ?/ return ?\C-b ?\C-b ?\C-w ?\C-f ?\C-f ?\C-b ?\C-b ?\C-k ?\) ?\] ?\( ?\C-y ?\) ?\C-a return ?\C-p ?\C-y ?\C-r ?/ return ?/ ?t ?h ?u ?m ?b ?s ?\C-a ?\C-k ?\C-d ?\C-s ?\] ?\( ?\) ?\] return left left ?\C-y ?\C-a ?\C-n])
+
 (global-set-key (kbd "C-c !") 'create-thumbs-with-b\.robnugen\.com-image-url-on-single-line)
 
 (unless (require 'el-get nil 'noerror)
@@ -82,6 +102,7 @@
  ;; If there is more than one, they won't work right.
  '(dired-recursive-copies (quote always))
  '(line-move-visual nil)
+ '(package-selected-packages (quote (elmacro)))
  '(send-mail-function (quote smtpmail-send-it))
  '(smtpmail-smtp-server "smtp.gmail.com")
  '(smtpmail-smtp-service 587))
