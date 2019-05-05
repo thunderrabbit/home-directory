@@ -138,18 +138,18 @@
   'Lower Curver off the Lowest Small-Medium Splitter':
     'prefix': 'lcotlsms'
     'body': '[Lower Curver off the Lowest Small-Medium Splitter](/parts/lower_curver_off_the_lowest_small-medium_splitter/)'
+  'Lower Zig Zag 1 ban':
+    'prefix': 'lzz1b'
+    'body': '[Lower Zig Zag 1 ban](/parts/lower-zig-zag-1-ban/)'
+  'Lower Zig Zag 2 ban':
+    'prefix': 'lzz2b'
+    'body': '[Lower Zig Zag 2 ban](/parts/lower-zig-zag-2-ban/)'
   'Lower Zig Zag 2 ban top':
     'prefix': 'lzz2bt'
     'body': '[Lower Zig Zag 2 ban top](/parts/lower-zig-zag-2-ban-top/)'
-  'Lower Zig Zag 2 ban':
-    'prefix': 'lzz2b'
-    'body': '[Lower Zig Zag 2 ban](/parts/lower-zig-zag-2-ban)'
-  'Lower Zig Zag 3 ban base':
-    'prefix': 'lzz3bb'
-    'body': '[Lower Zig Zag 3 ban base](/p/lzz3bb)'
   'Lower Zig Zag 3 ban':
     'prefix': 'lzz3b'
-    'body': '[Lower Zig Zag 3 ban](/p/lzz3b)'
+    'body': '[Lower Zig Zag 3 ban](/parts/lower-zig-zag-3-ban/)'
   'Lower Zig Zag 3 ban Upper Base':
     'prefix': 'lzz3bub'
     'body': '[Lower Zig Zag 3 ban Upper Base](/parts/lower-zig-zag-3-ban-upper-base/)'
