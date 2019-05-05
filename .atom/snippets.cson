@@ -31,7 +31,7 @@
     'prefix': 'gc'
     'body': '[G. Choppy](/workers/g_choppy/)'
   'Mr McGlue':
-    'prefix': 'mg'
+    'prefix': 'mmg'
     'body': '[Mr McGlue](/workers/mr_mcglue/)'
   'Pinky':
     'prefix': 'pink'
@@ -244,5 +244,5 @@
     'prefix': 'ttssmc'
     'body': '[the Triple Splitter Small Marble Catcher](/parts/the_triple_splitter_small_marble_catcher/)'
   '円周螺旋':
-    'prefix': 'os'
+    'prefix': 'jos'
     'body': '[円周螺旋](/parts/outer_spiral/)'
