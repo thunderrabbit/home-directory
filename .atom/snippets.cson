@@ -150,9 +150,9 @@
   'Lower Zig Zag 3 ban':
     'prefix': 'lzz3b'
     'body': '[Lower Zig Zag 3 ban](/p/lzz3b)'
-  'Lower Zig Zag 3ban Upper Base Base':
+  'Lower Zig Zag 3 ban Upper Base Base':
     'prefix': 'lzz3bubb'
-    'body': '[Lower Zig Zag 3ban Upper Base Base](/p/lzz3bubb)'
+    'body': '[Lower Zig Zag 3 ban Upper Base Base](/parts/lower-zig-zag-3-ban-upper-base-base/)'
   'Lower Zig Zag Net':
     'prefix': 'lzzn'
     'body': '[Lower Zig Zag Net](/parts/lower_zig_zag_net/)'
