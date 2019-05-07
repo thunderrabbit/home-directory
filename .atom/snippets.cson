@@ -27,9 +27,9 @@
   'Candy Mama':
     'prefix': 'cm'
     'body': '[Candy Mama](/workers/candy_mama/)'
-  'G. Choppy':
+  'G Choppy':
     'prefix': 'gc'
-    'body': '[G. Choppy](/workers/g_choppy/)'
+    'body': '[G Choppy](/workers/g_choppy/)'
   'Mr McGlue':
     'prefix': 'mmg'
     'body': '[Mr McGlue](/workers/mr_mcglue/)'
@@ -106,8 +106,8 @@
     'prefix': 'cbtcs'
     'body': '[Circle by the Caret Splitter](/parts/circle_by_the_caret_splitter/)'
   'Decorative Walls after the Lowest Small-Medium Splitter':
-    'prefix': 'dwatlsms"'
-    'body': '[Decorative Walls after the Lowest Small-Medium Splitter](/parts/decorative_walls_after_the_lowest_small-medium_splitter/")'
+    'prefix': 'dwatlsms'
+    'body': '[Decorative Walls after the Lowest Small-Medium Splitter](/parts/decorative_walls_after_the_lowest_small-medium_splitter/)'
   'Eighth Placed Outer Spiral Support':
     'prefix': '8poss'
     'body': '[Eighth Placed Outer Spiral Support](/parts/008p_eighth-placed-outer-spiral-support/)'
@@ -172,8 +172,8 @@
     'prefix': 'llbps'
     'body': '[Lowest Largest Backtracking Popsicle Stick](/parts/lowest_largest_backtracking_popsicle_stick/)'
   'Lowest Largest U-Turn':
-    'prefix': 'llut"'
-    'body': '[Lowest Largest U-Turn](/parts/lowest_largest_u_turn/")'
+    'prefix': 'llut'
+    'body': '[Lowest Largest U-Turn](/parts/lowest_largest_u_turn/)'
   'Medium Catcher Below Triple Splitter':
     'prefix': 'mcbts'
     'body': '[Medium Catcher Below Triple Splitter](/parts/medium-catcher-below-triple-splitter/)'
@@ -249,3 +249,6 @@
   '円周螺旋':
     'prefix': 'jos'
     'body': '[円周螺旋](/parts/outer_spiral/)'
+  'Lowest Largest Backtrack':
+    'prefix': 'llb'
+    'body': '[Lowest Largest Backtrack](/parts/lowest-largest-backtrack/)'
