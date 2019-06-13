@@ -252,3 +252,6 @@
   'Lowest Largest Backtrack':
     'prefix': 'llb'
     'body': '[Lowest Largest Backtrack](/parts/lowest-largest-backtrack/)'
+  'Triple Splitter Small Feeder Feeder':
+    'prefix': 'tssff'
+    'body': '[Triple Splitter Small Feeder Feeder](/parts/triple-splitter-small-feeder-feeder/)'
