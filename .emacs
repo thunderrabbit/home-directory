@@ -63,7 +63,8 @@ There are two things you can do about this warning:
    [?\C-x ?d ?~ ?/ ?j ?o ?u ?r ?n ?a ?l ?\C-m ?g ?\C-\[ ?> ?\C-r ?R ?E ?A ?D ?\C-m up ?\C-m ?g ?\C-\[ ?> ?p ?\C-m ?g ?~])
 
 (global-set-key (kbd "C-c j") 'journal-new-post)
-(global-set-key (kbd "C-c m") 'mt3-new-episode)
+(global-set-key (kbd "C-c b") 'blog-new-post)
+(global-set-key (kbd "C-c m") 'mt3-new-episode)    ; defined in ~/.emacs.d/personal/hugo/hugo.el
 (global-set-key (kbd "C-c p") 'mt3-new-part)
 (global-set-key (kbd "C-c d") 'journal-new-dream-post)
 (global-set-key (kbd "C-c n") 'journal-new-japanese-post)
