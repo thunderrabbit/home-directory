@@ -18,6 +18,9 @@
 # https://github.com/bevry/cson#what-is-cson
 
 '.source.gfm':
+  'Autosticks':
+    'prefix': 'auto'
+    'body': '[Autosticks](/workers/autosticks/)'
   'Doctor Sugar':
     'prefix': 'ds'
     'body': '[Doctor Sugar](/workers/dr_sugar/)'
@@ -255,3 +258,12 @@
   'Triple Splitter Small Feeder Feeder':
     'prefix': 'tssff'
     'body': '[Triple Splitter Small Feeder Feeder](/parts/triple-splitter-small-feeder-feeder/)'
+  'Caret Splitter Feeder Guider':
+    'prefix': 'csfg'
+    'body': '[Caret Splitter Feeder Guider](/parts/caret-splitter-feeder-guider/)'
+  'Caret Splitter Feeder Extension Reflection Protection':
+    'prefix': 'csferp'
+    'body': '[Caret Splitter Feeder Extension Reflection Protection](/parts/caret-splitter-feeder-extension-reflection-protection/)'
+  'Lower Zig Zag 3 ban Lower Support':
+    'prefix': 'lzz3bls'
+    'body': '[Lower Zig Zag 3 ban Lower Support](/parts/lower-zig-zag-3-ban-lower-support/)'
