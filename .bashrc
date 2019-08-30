@@ -25,6 +25,8 @@ alias gitsl='gits; gitl -20'
 alias gitd='git diff -b'
 alias gitds='git diff -b --staged'
 alias gita='git add'
+alias gitb='cd ~/journal-hugo && gits'
+alias gitj='cd ~/journal && gits'
 
 # setting for the new UTF-8 terminal in Lion
 export LC_CTYPE="en_US.UTF-8"

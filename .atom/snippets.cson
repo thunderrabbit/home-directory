@@ -18,6 +18,9 @@
 # https://github.com/bevry/cson#what-is-cson
 
 '.source.gfm':
+  'Email me':
+    'prefix': 'email me'
+    'body': 'Email me at rob **α𝐭** robnugen.com'
   'Autosticks':
     'prefix': 'auto'
     'body': '[Autosticks](/workers/autosticks/)'
@@ -270,3 +273,12 @@
   'Lowest Largest U-turn Berm':
     'prefix': 'llutb'
     'body': '[Lowest Largest U-turn Berm](/parts/lowest-largest-u-turn-berm/)'
+  'Caret Splitter Feeder Extension Reflection Protection Holders':
+    'prefix': 'csferph'
+    'body': '[Caret Splitter Feeder Extension Reflection Protection Holders](/parts/caret-splitter-feeder-extension-reflection-protection-holders/)'
+  'Caret Splitter Feeder Extension Protection Upper Holder':
+    'prefix': 'csferpuh'
+    'body': '[Caret Splitter Feeder Extension Protection Upper Holder](/parts/caret-splitter-feeder-extension-protection-upper-holder/)'
+  'Caret Splitter Feeder Guider Lower Support':
+    'prefix': 'csfgls'
+    'body': '[Caret Splitter Feeder Guider Lower Support](/parts/caret-splitter-feeder-guider-lower-support/)'
