@@ -47,6 +47,7 @@ alias se='screen -e \`\`'
 alias sl='screen -list'
 alias hv='/Applications/android-sdk-mac_x86/tools/hierarchyviewer'
 
+alias password='/usr/bin/openssl rand -base64 15'
 alias snooj='ssh 128.83.67.213'
 
 alias sback='ssh backforest@chatforest.com'

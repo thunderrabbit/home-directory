@@ -276,9 +276,27 @@
   'Caret Splitter Feeder Extension Reflection Protection Holders':
     'prefix': 'csferph'
     'body': '[Caret Splitter Feeder Extension Reflection Protection Holders](/parts/caret-splitter-feeder-extension-reflection-protection-holders/)'
-  'Caret Splitter Feeder Extension Protection Upper Holder':
+  'Caret Splitter Feeder Extension Reflection Protection Upper Holder':
     'prefix': 'csferpuh'
-    'body': '[Caret Splitter Feeder Extension Protection Upper Holder](/parts/caret-splitter-feeder-extension-protection-upper-holder/)'
-  'Caret Splitter Feeder Guider Lower Support':
+    'body': '[Caret Splitter Feeder Extension Reflection Protection Upper Holder](/parts/caret-splitter-feeder-extension-reflection-protection-upper-holder/)'
+  'Caret Splitter Feeder Guider Lower Supporter':
     'prefix': 'csfgls'
-    'body': '[Caret Splitter Feeder Guider Lower Support](/parts/caret-splitter-feeder-guider-lower-support/)'
+    'body': '[Caret Splitter Feeder Guider Lower Support](/parts/caret-splitter-feeder-guider-lower-supporter/)'
+  'Caret Splitter Feeder Lefter Guider':
+    'prefix': 'csflg'
+    'body': '[Caret Splitter Feeder Lefter Guider](/parts/caret-splitter-feeder-lefter-guider/)'
+  'Caret Splitter Feeder Righter Guider':
+    'prefix': 'csfrg'
+    'body': '[Caret Splitter Feeder Righter Guider](/parts/caret-splitter-feeder-righter-guider/)'
+  'Caret Splitter Feeder Guider Upper Supporter':
+    'prefix': 'csfgus'
+    'body': '[Caret Splitter Feeder Guider Upper Supporter](/parts/caret-splitter-feeder-guider-upper-supporter/)'
+  'Caret Splitter Feeder Extension Reflection Protection Lower Holder':
+    'prefix': 'csferplh'
+    'body': '[Caret Splitter Feeder Extension Reflection Protection Lower Holder](/parts/caret-splitter-feeder-extension-reflection-protection-lower-holder/)'
+  '000p_zeroth_placed_outer_spiral_support':
+    'prefix': '0poss'
+    'body': '[000p_zeroth_placed_outer_spiral_support](/parts/000p_zeroth_placed_outer_spiral_support/)'
+  'Tenth Placed Outer Spiral Support':
+    'prefix': '10poss'
+    'body': '[Tenth Placed Outer Spiral Support](/parts/tenth-placed-outer-spiral-support/)'
