@@ -300,3 +300,9 @@
   'Tenth Placed Outer Spiral Support':
     'prefix': '10poss'
     'body': '[Tenth Placed Outer Spiral Support](/parts/tenth-placed-outer-spiral-support/)'
+  'el Lifty Lever':
+    'prefix': 'eLL'
+    'body': '[el Lifty Lever](/parts/el-lifty-lever/)'
+  'Caret Splitter Rudder Holder':
+    'prefix': 'csrh'
+    'body': '[Caret Splitter Rudder Holder](/parts/caret-splitter-rudder-holder/)'
