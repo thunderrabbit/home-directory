@@ -1,0 +1,1 @@
+/Users/thunderrabbit/camera_fix.sh
