@@ -348,3 +348,18 @@
   'Lower Small Medium Splitter Inner Thinner Keeper':
     'prefix': 'lsmsitk'
     'body': '[Lower Small Medium Splitter Inner Thinner Keeper](/parts/lower-small-medium-splitter-inner-thinner-keeper/)'
+  'Second Bridge Supports':
+    'prefix': '2bs'
+    'body': '[Second Bridge Supports](/parts/second-bridge-supports/)'
+  'Second Bridge Level 1':
+    'prefix': '2bl1'
+    'body': '[Second Bridge Level 1](/parts/second-bridge-level-1/)'
+  '2nd bridge bridge level 1':
+    'prefix': '2bbl1'
+    'body': '[2nd bridge bridge level 1](/parts/2nd-bridge-bridge-level-1/)'
+  'Thirteenth Placed Outer Spiral Support':
+    'prefix': '13poss'
+    'body': '[Thirteenth Placed Outer Spiral Support](/parts/thirteenth-placed-outer-spiral-support/)'
+  'El Banderín':
+    'prefix': 'eb'
+    'body': '[El Banderín](/parts/el-banderín/)'
